@@ -1,0 +1,7 @@
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - lib/l10n/app_localizations*.dart
+include: package:flutter_lints/flutter.yaml
